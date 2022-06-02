@@ -1,3 +1,17 @@
+# 6/1 網管React課程DEMO
+
+## 安裝步驟
+
+1. ```git clone https://github.com/xwk1246/react-demo-app.git```
+
+2. ```cd react-demo-app```
+
+3. ```yarn install```
+
+4. ```yarn start```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
