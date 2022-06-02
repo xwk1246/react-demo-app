@@ -18,6 +18,7 @@ const Todo = () => {
       ></Input>
       <Button
         onClick={() => {
+          if (inputVal === "") return;
           setTodo([...todo, inputVal]);
           setInputVal("");
         }}
